@@ -1,4 +1,4 @@
 <?php
 echo "file completed "
-echo "100 percent done"
+echo "100 percent done";
 ?>
