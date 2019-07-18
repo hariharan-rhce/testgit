@@ -1,3 +1,3 @@
 <?php
-echo "file completed thank you"
+echo "file completed "
 ?>
